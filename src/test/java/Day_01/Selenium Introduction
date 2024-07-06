@@ -1,0 +1,33 @@
+1) what is Automation testing ?
+- Performing the testing using tools is known as automation testing
+
+** AUTOMATION TESTING STARTED TO SOLVE THE PROBLEM OF RE-TESTING AND REGRESSION TESTING ***
+
+RE-TESTING : Executing same test cases again and again.
+REGRESSION TESTING : Executing all the test cases Every cycle of rebuilt code.
+
+2) What is selenium ?
+- Selenium is a web based automation tool/library.
+
+** SELENIUM WAS ORIGINAL DEVELOPED BY JASON HUGGING IN 2004 THOUGHT WORKS COMPANY ***
+
+* Selenium is open source and free.
+* Selenium has multiple components (IDE, WEBDRIVER, GRID).
+
+3) Advantages of Selenium :
+
+* Open source tool and free.
+* It supports multiple operating systems.
+* Multiple browsers.
+* multiple Languages (python, java,javascript,Ruby, c#  etc).
+* It can integrate 3rd party tools.
+
+4) Disadvantages of Selenium :
+ 
+* It can not support windows based application(Autoit, sikuli, Robot API).
+* Reporting not supported (TestNG, Extent report).
+* It can not support Excel file(Apachi poi).
+* Not support GRAPHS AND CAPTUA .
+
+** CURRENT VERSION IS 4.21.0 **
+
